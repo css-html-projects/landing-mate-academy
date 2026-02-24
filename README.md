@@ -4,7 +4,8 @@
 Responsive landing page built during a **5-day layout course at Mate Academy**.
 The project demonstrates core HTML & CSS skills and responsive design implementation.
 
-## Live Demo
+## [Live Demo](https://css-html-projects.github.io/landing-mate-academy/)
+
 
 ## Tech Stack
 
@@ -12,7 +13,7 @@ The project demonstrates core HTML & CSS skills and responsive design implementa
 * CSS3 (Flexbox, Grid)
 * Responsive design
 
-## 📱 Responsiveness
+## Responsiveness
 
 Optimized for mobile, tablet, and desktop.
 
